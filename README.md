@@ -1,2 +1,3 @@
-# BackgroundChanger
-prep
+# Background color changer
+
+Javascript click event
